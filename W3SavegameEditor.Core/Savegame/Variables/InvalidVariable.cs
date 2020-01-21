@@ -1,7 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
 namespace W3SavegameEditor.Core.Savegame.Variables
 {
     public class InvalidVariable : Variable
